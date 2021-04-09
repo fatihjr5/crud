@@ -1,0 +1,33 @@
+.header {
+    text-align: center;
+    margin-top: 5vh;
+    h4 {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    p {
+        font-size: 20px;
+        font-weight: 400;
+        margin-bottom: 4vh;
+    }
+    a {
+        text-decoration: none;
+        font-size: 15px;
+        padding: 10px 20px;
+        background-color: #50028D;
+        color: white;
+        border-radius: 1vh;
+    }
+}
+
+.tbl {
+    margin-top: 10vh;
+    .card-header {
+        text-align: center;
+    }
+    .tombol {
+        button {
+            margin: 0 2vh;
+        }
+    }
+}
